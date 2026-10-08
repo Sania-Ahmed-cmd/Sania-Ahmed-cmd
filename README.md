@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Sania 👋 - a Computer Science & Engineering student passionate about **AI/ML, Deep Learning, Computer Vision, and building real-world technology**. I love turning ideas into working products, from VARSHA, an AI-powered rainfall system**, to **InfraReach, an intelligent wearable navigation system for visually impaired people**. I’m always experimenting, learning, and building through projects and hackathons. **Have an idea worth building? Let’s turn it into something real. 🚀**<br>
+Hi, I’m Sania 👋 - a Computer Science & Engineering student passionate about **AI/ML, Deep Learning, Computer Vision, and building real-world technology**. I love turning ideas into working products, from **VARSHA, an AI-powered rainfall system**, to **InfraReach, an intelligent wearable navigation system for visually impaired people**. I’m always experimenting, learning, and building through projects and hackathons. **Have an idea worth building? Let’s turn it into something real. 🚀**<br>
 
 
 ## 🌐 Socials:
